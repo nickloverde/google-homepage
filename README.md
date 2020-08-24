@@ -1,1 +1,4 @@
 # google-homepage
+This is my first ever built from the ground up web-project where I attempted to recreate the Google Search Page. 
+
+Although I’m not saying anything new to someone who knows coding, this task really hit home for me the idea that coding is more an art that a science. I first did my layout using google searches for anything I didn’t know and built my site. Then, I went and read all the other students code as well as the original source code from Google, and it was fascinating to me how different all the codes were. I must have read through 20 other pages of code for the same-looking website and no two were the same. For me, this reinforces the creative and design aspect that I enjoy with coding. However, I do want to make sure that I still try to keep in mind best practices and making things as simple and efficient as possible. I realize although there are many ways to create the same product, there are definitely some better than others.
